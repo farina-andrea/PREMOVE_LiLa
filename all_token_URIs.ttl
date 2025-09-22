@@ -198,11 +198,7 @@ sn:05318579-n a ontolex:LexicalConcept ;
     frac:attestation :oculos_attestation .
 
 :oculos_attestation a frac:Attestation ;
-    rdf:value "Nihil nisi quod in oculos incurret manifestumque
-erit credamus, et quotiens suspicio nostra vana
-
- 
-apparuerit, obiurgemus credulitatem" ;
+    rdf:value "Nihil nisi quod in oculos incurret manifestumque erit credamus, et quotiens suspicio nostra vana apparuerit, obiurgemus credulitatem" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0004669> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/SentenceLayer/Liber_2/Sentence_530> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -1075,8 +1071,7 @@ sn:07095235-n a ontolex:LexicalConcept ;
     frac:attestation :orationem_attestation .
 
 :orationem_attestation a frac:Attestation ;
-    rdf:value "transeat deinde ad tristiorem orationem, qua moneat
-adhuc et exprobret" ;
+    rdf:value "transeat deinde ad tristiorem orationem, qua moneat adhuc et exprobret" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0001411> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/SentenceLayer/Liber_1/Sentence_61> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -1121,12 +1116,7 @@ sn:05927857-n a ontolex:LexicalConcept ;
     frac:attestation :animos_attestation .
 
 :animos_attestation a frac:Attestation ;
-    rdf:value "Quae non sunt
-irae, non magis quam tristitia est, quae ad conspectum
-mimici naufragii contrahit frontem, non magis quam
-timor, qui Hannibale post Cannas moenia circumsidente lectorum percurrit animos, sed omnia ista
-motus sunt animorum moveri nolentium nec adfectus
- sed principia proludentia adfectibus" ;
+    rdf:value "Quae non sunt irae, non magis quam tristitia est, quae ad conspectum mimici naufragii contrahit frontem, non magis quam timor, qui Hannibale post Cannas moenia circumsidente lectorum percurrit animos, sed omnia ista motus sunt animorum moveri nolentium nec adfectus sed principia proludentia adfectibus" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0000400> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/SentenceLayer/Liber_2/Sentence_309> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -1189,8 +1179,7 @@ sn:10680441-n a ontolex:LexicalConcept ;
     frac:attestation :ignotis_attestation .
 
 :ignotis_attestation a frac:Attestation ;
-    rdf:value "hic etiam ignotis succurrere,
-illa etiam carissimos petere" ;
+    rdf:value "hic etiam ignotis succurrere, illa etiam carissimos petere" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0001177> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/SentenceLayer/Liber_1/Sentence_50> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -1199,8 +1188,7 @@ sn:01162829-n a ontolex:LexicalConcept ;
     frac:attestation :poenas_attestation .
 
 :poenas_attestation a frac:Attestation ;
-    rdf:value "novissime ad poenas et has
-adhuc leves, revocabiles decurrat" ;
+    rdf:value "novissime ad poenas et has adhuc leves, revocabiles decurrat" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0001419> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/SentenceLayer/Liber_1/Sentence_61> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -1209,12 +1197,7 @@ sn:07521621-n a ontolex:LexicalConcept ;
     frac:attestation :crudelitatem_attestation .
 
 :crudelitatem_attestation a frac:Attestation ;
-    rdf:value "Origo huius mali ab ira est, quae ubi
-
- 
-frequenti exercitatione et satietate in oblivionem
-clementiae venit et omne foedus humanum eiecit
-animo, novissime in crudelitatem transit" ;
+    rdf:value "Origo huius mali ab ira est, quae ubi frequenti exercitatione et satietate in oblivionem clementiae venit et omne foedus humanum eiecit animo, novissime in crudelitatem transit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0000860> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/SentenceLayer/Liber_2/Sentence_326> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -1223,8 +1206,7 @@ sn:09410115-n a ontolex:LexicalConcept ;
     frac:attestation :iter_attestation .
 
 :iter_attestation a frac:Attestation ;
-    rdf:value "Quisquis sequitur priores male iter ingressos, quidni habeat excusationem,
- cum publica via erraverit ?" ;
+    rdf:value "Quisquis sequitur priores male iter ingressos, quidni habeat excusationem, cum publica via erraverit ?" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0001811> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/SentenceLayer/Liber_2/Sentence_373> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -1242,8 +1224,7 @@ sn:15170131-n a ontolex:LexicalConcept ;
     frac:attestation :aetatem_attestation .
 
 :aetatem_attestation a frac:Attestation ;
-    rdf:value "Nullam transit aetatem, nullum hominum genus
-excipit" ;
+    rdf:value "Nullam transit aetatem, nullum hominum genus excipit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0000273> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/SentenceLayer/Liber_3/Sentence_705> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -1252,11 +1233,7 @@ sn:14020738-n a ontolex:LexicalConcept ;
     frac:attestation :seruitutem_attestation .
 
 :seruitutem_attestation a frac:Attestation ;
-    rdf:value "Dabo tibi ex Aristotelis sinu regem Alexandrum, qui
-Clitum carissimum sibi et una educatum inter epulas
-transfodit manu quidem sua, parum adulantem et
-pigre ex Macedone ac libero in Persicam servitutem
- transeuntem" ;
+    rdf:value "Dabo tibi ex Aristotelis sinu regem Alexandrum, qui Clitum carissimum sibi et una educatum inter epulas transfodit manu quidem sua, parum adulantem et pigre ex Macedone ac libero in Persicam servitutem transeuntem" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0004258> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/SentenceLayer/Liber_3/Sentence_889> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -1265,9 +1242,7 @@ sn:00351206-n a ontolex:LexicalConcept ;
     frac:attestation :deuium_attestation .
 
 :deuium_attestation a frac:Attestation ;
-    rdf:value "Quam superba fuerit crudelitas eius ad rem
-pertinet scire, quamquam aberrare alicui possimus
-videri et in devium exire" ;
+    rdf:value "Quam superba fuerit crudelitas eius ad rem pertinet scire, quamquam aberrare alicui possimus videri et in devium exire" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0004606> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/SentenceLayer/Liber_3/Sentence_905> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -1276,14 +1251,7 @@ sn:00720957-n a ontolex:LexicalConcept ;
     frac:attestation :ministeria_attestation .
 
 :ministeria_attestation a frac:Attestation ;
-    rdf:value "Si captivus in servitutem subito
-depressus reliquias libertatis tenet nec ad sordida
-ac laboriosa ministeria agilis occurrit, si ex otio piger
-equum vehiculumque domini cursu non exaequat,
-si inter cottidiana pervigilia fessum somnus oppressit, si rusticum laborem recusat aut non fortiter
-obiit a servitute urbana et feriata translatus ad
- 2 durum opus, distinguamus, utrum aliquis non possit
-an nolit" ;
+    rdf:value "Si captivus in servitutem subito depressus reliquias libertatis tenet nec ad sordida ac laboriosa ministeria agilis occurrit, si ex otio piger equum vehiculumque domini cursu non exaequat, si inter cottidiana pervigilia fessum somnus oppressit, si rusticum laborem recusat aut non fortiter obiit a servitute urbana et feriata translatus ad 2 durum opus, distinguamus, utrum aliquis non possit an nolit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0006883> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/SentenceLayer/Liber_3/Sentence_1028> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5603,8 +5571,7 @@ sn:02144017-v a ontolex:LexicalConcept ;
     frac:attestation :exit_attestation .
 
 :exit_attestation a frac:Attestation ;
-    rdf:value "ira se profert et in faciem exit,
-quantoque maior, hoc effervescit manifestius" ;
+    rdf:value "ira se profert et in faciem exit, quantoque maior, hoc effervescit manifestius" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0000237> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_1/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5613,11 +5580,7 @@ sn:02718318-v a ontolex:LexicalConcept ;
     frac:attestation :praecurrant_attestation .
 
 :praecurrant_attestation a frac:Attestation ;
-    rdf:value "Non
-vides ut omnium animalium, simul ad nocendum
-insurrexerunt, praecurrant notae ac tota corpora
-solitum quietumque egrediantur habitum et feritatem
- suam exasperent ?" ;
+    rdf:value "Non vides ut omnium animalium, simul ad nocendum insurrexerunt, praecurrant notae ac tota corpora solitum quietumque egrediantur habitum et feritatem suam exasperent ?" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0000253> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_1/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5626,9 +5589,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :pereunt_attestation .
 
 :pereunt_attestation a frac:Attestation ;
-    rdf:value "Gladiatoribus
-quare populus irascitur et tam inique, ut iniuriam
-putet, quod non libenter pereunt ?" ;
+    rdf:value "Gladiatoribus quare populus irascitur et tam inique, ut iniuriam putet, quod non libenter pereunt ?" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0000524> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_2/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5637,9 +5598,7 @@ sn:02690747-v a ontolex:LexicalConcept ;
     frac:attestation :exeunt_attestation .
 
 :exeunt_attestation a frac:Attestation ;
-    rdf:value "quaedam ultra
-querellas et aversationes non exeunt, quaedam altae
-gravesque sunt et introrsus versae" ;
+    rdf:value "quaedam ultra querellas et aversationes non exeunt, quaedam altae gravesque sunt et introrsus versae" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0001074> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_4/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5648,8 +5607,7 @@ sn:02554407-v a ontolex:LexicalConcept ;
     frac:attestation :succurrere_attestation .
 
 :succurrere_attestation a frac:Attestation ;
-    rdf:value "hic etiam ignotis succurrere,
-illa etiam carissimos petere" ;
+    rdf:value "hic etiam ignotis succurrere, illa etiam carissimos petere" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0001178> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_5/Paragraphus_2> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5658,8 +5616,7 @@ sn:00550851-v a ontolex:LexicalConcept ;
     frac:attestation :transeat_attestation .
 
 :transeat_attestation a frac:Attestation ;
-    rdf:value "transeat deinde ad tristiorem orationem, qua moneat
-adhuc et exprobret" ;
+    rdf:value "transeat deinde ad tristiorem orationem, qua moneat adhuc et exprobret" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0001407> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_6/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5668,8 +5625,7 @@ sn:00550851-v a ontolex:LexicalConcept ;
     frac:attestation :decurrat_attestation .
 
 :decurrat_attestation a frac:Attestation ;
-    rdf:value "novissime ad poenas et has
-adhuc leves, revocabiles decurrat" ;
+    rdf:value "novissime ad poenas et has adhuc leves, revocabiles decurrat" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0001425> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_6/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5678,11 +5634,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :pereat_attestation .
 
 :pereat_attestation a frac:Attestation ;
-    rdf:value "ultima supplicia
-sceleribus ultimis ponat, ut nemo pereat, nisi quem
-
- 
- perire etiam pereuntis intersit" ;
+    rdf:value "ultima supplicia sceleribus ultimis ponat, ut nemo pereat, nisi quem perire etiam pereuntis intersit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0001433> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_6/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5691,11 +5643,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :perire_attestation .
 
 :perire_attestation a frac:Attestation ;
-    rdf:value "ultima supplicia
-sceleribus ultimis ponat, ut nemo pereat, nisi quem
-
- 
- perire etiam pereuntis intersit" ;
+    rdf:value "ultima supplicia sceleribus ultimis ponat, ut nemo pereat, nisi quem perire etiam pereuntis intersit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0001436> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_6/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5704,11 +5652,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :pereuntis_attestation .
 
 :pereuntis_attestation a frac:Attestation ;
-    rdf:value "ultima supplicia
-sceleribus ultimis ponat, ut nemo pereat, nisi quem
-
- 
- perire etiam pereuntis intersit" ;
+    rdf:value "ultima supplicia sceleribus ultimis ponat, ut nemo pereat, nisi quem perire etiam pereuntis intersit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0001438> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_6/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5717,9 +5661,7 @@ sn:02708690-v a ontolex:LexicalConcept ;
     frac:attestation :conuenit_attestation .
 
 :conuenit_attestation a frac:Attestation ;
-    rdf:value "bono ergo
-poena non convenit, ob hoc nec ira, quia poena irae
-convenit" ;
+    rdf:value "bono ergo poena non convenit, ob hoc nec ira, quia poena irae convenit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0001535> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_6/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5728,12 +5670,7 @@ sn:02009962-v a ontolex:LexicalConcept ;
     frac:attestation :peruenire_attestation .
 
 :peruenire_attestation a frac:Attestation ;
-    rdf:value "Ut in praeceps
-datis corporibus nullum sui arbitrium est nec resistere
-morarive deiecta potuerunt, sed consilium omne et
-paenitentiam irrevocabilis praecipitatio abscidit et
-non licet eo non pervenire, quo non ire licuisset, ita
-animus si in iram, amorem aliosque se proiecit adfectus, non permittitur reprimere impetum" ;
+    rdf:value "Ut in praeceps datis corporibus nullum sui arbitrium est nec resistere morarive deiecta potuerunt, sed consilium omne et paenitentiam irrevocabilis praecipitatio abscidit et non licet eo non pervenire, quo non ire licuisset, ita animus si in iram, amorem aliosque se proiecit adfectus, non permittitur reprimere impetum" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0001743> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_7/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5742,8 +5679,7 @@ sn:02205920-v a ontolex:LexicalConcept ;
     frac:attestation :confugiat_attestation .
 
 :confugiat_attestation a frac:Attestation ;
-    rdf:value "Absit hoc a
-virtute malum, ut umquam ratio ad vitia confugiat !" ;
+    rdf:value "Absit hoc a virtute malum, ut umquam ratio ad vitia confugiat !" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0002300> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_10/Paragraphus_2> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5752,8 +5688,7 @@ sn:01372423-v a ontolex:LexicalConcept ;
     frac:attestation :Perierat_attestation .
 
 :Perierat_attestation a frac:Attestation ;
-    rdf:value "Perierat imperium, quod tunc in extremo
-stabat, si Fabius tantum ausus esset quantum ira suadebat" ;
+    rdf:value "Perierat imperium, quod tunc in extremo stabat, si Fabius tantum ausus esset quantum ira suadebat" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0002657> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_11/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5762,8 +5697,7 @@ sn:01372423-v a ontolex:LexicalConcept ;
     frac:attestation :perire_attestation .
 
 :perire_attestation a frac:Attestation ;
-    rdf:value "habuit in consilio fortunam publicam et aestimatis viribus, ex quibus iam perire nihil sine universo
-poterat, dolorem ultionemque seposuit in unam utilitatem et occasiones intentus" ;
+    rdf:value "habuit in consilio fortunam publicam et aestimatis viribus, ex quibus iam perire nihil sine universo poterat, dolorem ultionemque seposuit in unam utilitatem et occasiones intentus" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0002683> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_11/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5772,11 +5706,7 @@ sn:02019450-v a ontolex:LexicalConcept ;
     frac:attestation :exire_attestation .
 
 :exire_attestation a frac:Attestation ;
-    rdf:value "Tibi insanabilis animus et sceleribus scelera contexens, et
-iam non causis, quae numquam malo defuturae sunt,
-impelleris, sed satis tibi est magna ad peccandum
-causa peccare, perbibisti nequitiam et ita visceribus
-immiscuisti, ut nisi cum ipsis exire non possit" ;
+    rdf:value "Tibi insanabilis animus et sceleribus scelera contexens, et iam non causis, quae numquam malo defuturae sunt, impelleris, sed satis tibi est magna ad peccandum causa peccare, perbibisti nequitiam et ita visceribus immiscuisti, ut nisi cum ipsis exire non possit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0003768> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_16/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5785,9 +5715,7 @@ sn:02708690-v a ontolex:LexicalConcept ;
     frac:attestation :conuenit_attestation .
 
 :conuenit_attestation a frac:Attestation ;
-    rdf:value "Nam si bono viro ob
-mala facinora irasci convenit, et ob secundas res
-malorum hominum invidere conveniet" ;
+    rdf:value "Nam si bono viro ob mala facinora irasci convenit, et ob secundas res malorum hominum invidere conveniet" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0003975> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_16/Paragraphus_6> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5796,9 +5724,7 @@ sn:02708690-v a ontolex:LexicalConcept ;
     frac:attestation :conueniet_attestation .
 
 :conueniet_attestation a frac:Attestation ;
-    rdf:value "Nam si bono viro ob
-mala facinora irasci convenit, et ob secundas res
-malorum hominum invidere conveniet" ;
+    rdf:value "Nam si bono viro ob mala facinora irasci convenit, et ob secundas res malorum hominum invidere conveniet" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0003983> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_16/Paragraphus_6> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5807,8 +5733,7 @@ sn:00252156-v a ontolex:LexicalConcept ;
     frac:attestation :inuentura_attestation .
 
 :inuentura_attestation a frac:Attestation ;
-    rdf:value "nihil
-enim melius inventura est se ipsa, quo mutetur" ;
+    rdf:value "nihil enim melius inventura est se ipsa, quo mutetur" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0004199> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_17/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5817,9 +5742,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :perire_attestation .
 
 :perire_attestation a frac:Attestation ;
-    rdf:value "Ceterum etiam ubi perseveravit ira, nonnumquam, si plures sunt qui perire
-meruerunt, post duorum triumve sanguinem occidere
-desinit" ;
+    rdf:value "Ceterum etiam ubi perseveravit ira, nonnumquam, si plures sunt qui perire meruerunt, post duorum triumve sanguinem occidere desinit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0004286> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_17/Paragraphus_6> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5828,8 +5751,7 @@ sn:02023426-v a ontolex:LexicalConcept ;
     frac:attestation :excurrit_attestation .
 
 :excurrit_attestation a frac:Attestation ;
-    rdf:value "modo ultra quam
-oportet excurrit, modo citerius debito resistit" ;
+    rdf:value "modo ultra quam oportet excurrit, modo citerius debito resistit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0004342> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_17/Paragraphus_7> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5838,9 +5760,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :perierat_attestation .
 
 :perierat_attestation a frac:Attestation ;
-    rdf:value "Conscendit tribunal furens Piso ac iubet duci utrumque,
-et eum militem qui non occiderat et eum qui non
- perierat" ;
+    rdf:value "Conscendit tribunal furens Piso ac iubet duci utrumque, et eum militem qui non occiderat et eum qui non perierat" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0004573> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_18/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5849,8 +5769,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :peribant_attestation .
 
 :peribant_attestation a frac:Attestation ;
-    rdf:value "Quia unus innocens
-apparuerat, duo peribant" ;
+    rdf:value "Quia unus innocens apparuerat, duo peribant" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0004582> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_18/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5859,8 +5778,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :perituri_attestation .
 
 :perituri_attestation a frac:Attestation ;
-    rdf:value "Constituti sunt in eodem illo loco perituri
- tres ob unius innocentiam" ;
+    rdf:value "Constituti sunt in eodem illo loco perituri tres ob unius innocentiam" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0004601> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_18/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5869,8 +5787,7 @@ sn:02218118-v a ontolex:LexicalConcept ;
     frac:attestation :inuenerat_attestation .
 
 :inuenerat_attestation a frac:Attestation ;
-    rdf:value "Excogitavit quemadmodum
-tria crimina faceret, quia nullum invenerat" ;
+    rdf:value "Excogitavit quemadmodum tria crimina faceret, quia nullum invenerat" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0004642> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_18/Paragraphus_6> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5879,11 +5796,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :pereant_attestation .
 
 :pereant_attestation a frac:Attestation ;
-    rdf:value "revocari
-enim praeterita non possunt, futura prohibentur—,
-et quos volet nequitiae male cedentis exempla fieri,
-palam occidet, non tantum ut pereant ipsi, sed ut
- alios pereundo deterreant" ;
+    rdf:value "revocari enim praeterita non possunt, futura prohibentur—, et quos volet nequitiae male cedentis exempla fieri, palam occidet, non tantum ut pereant ipsi, sed ut alios pereundo deterreant" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0004952> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_19/Paragraphus_7> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5892,11 +5805,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :pereundo_attestation .
 
 :pereundo_attestation a frac:Attestation ;
-    rdf:value "revocari
-enim praeterita non possunt, futura prohibentur—,
-et quos volet nequitiae male cedentis exempla fieri,
-palam occidet, non tantum ut pereant ipsi, sed ut
- alios pereundo deterreant" ;
+    rdf:value "revocari enim praeterita non possunt, futura prohibentur—, et quos volet nequitiae male cedentis exempla fieri, palam occidet, non tantum ut pereant ipsi, sed ut alios pereundo deterreant" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0004957> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_19/Paragraphus_7> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5905,8 +5814,7 @@ sn:00340744-v a ontolex:LexicalConcept ;
     frac:attestation :Occurrit_attestation .
 
 :Occurrit_attestation a frac:Attestation ;
-    rdf:value "Occurrit illi futurum, ut exsecrentur, insidientur,
-opprimant" ;
+    rdf:value "Occurrit illi futurum, ut exsecrentur, insidientur, opprimant" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra1.BPN_t_0005176> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_1/Capitulum_20/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5915,11 +5823,7 @@ sn:00346162-v a ontolex:LexicalConcept ;
     frac:attestation :excurrat_attestation .
 
 :excurrat_attestation a frac:Attestation ;
-    rdf:value "sed utrum speciem ipsa statim sequatur
-et non accedente animo excurrat, an illo adsentiente
-
- 
- moveatur quaerimus" ;
+    rdf:value "sed utrum speciem ipsa statim sequatur et non accedente animo excurrat, an illo adsentiente moveatur quaerimus" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0000119> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_1/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5928,10 +5832,7 @@ sn:00340744-v a ontolex:LexicalConcept ;
     frac:attestation :eueniunt_attestation .
 
 :eueniunt_attestation a frac:Attestation ;
-    rdf:value "est enim voluntarium animi vitium, non ex his, quae condicione
-quadam humanae sortis eveniunt ideoque etiam sapientissimis accidunt, inter quae et primus ille ictus
-animi ponendus est, qui nos post opinionem iniuriae
- movet" ;
+    rdf:value "est enim voluntarium animi vitium, non ex his, quae condicione quadam humanae sortis eveniunt ideoque etiam sapientissimis accidunt, inter quae et primus ille ictus animi ponendus est, qui nos post opinionem iniuriae movet" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0000271> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_2/Paragraphus_2> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5940,10 +5841,7 @@ sn:02629812-v a ontolex:LexicalConcept ;
     frac:attestation :subit_attestation .
 
 :subit_attestation a frac:Attestation ;
-    rdf:value "Hic subit etiam inter ludicra scaenae spectacula
-
- 
- et lectiones rerum vetustarum" ;
+    rdf:value "Hic subit etiam inter ludicra scaenae spectacula et lectiones rerum vetustarum" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0000293> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_2/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5952,12 +5850,7 @@ sn:01916152-v a ontolex:LexicalConcept ;
     frac:attestation :percurrit_attestation .
 
 :percurrit_attestation a frac:Attestation ;
-    rdf:value "Quae non sunt
-irae, non magis quam tristitia est, quae ad conspectum
-mimici naufragii contrahit frontem, non magis quam
-timor, qui Hannibale post Cannas moenia circumsidente lectorum percurrit animos, sed omnia ista
-motus sunt animorum moveri nolentium nec adfectus
- sed principia proludentia adfectibus" ;
+    rdf:value "Quae non sunt irae, non magis quam tristitia est, quae ad conspectum mimici naufragii contrahit frontem, non magis quam timor, qui Hannibale post Cannas moenia circumsidente lectorum percurrit animos, sed omnia ista motus sunt animorum moveri nolentium nec adfectus sed principia proludentia adfectibus" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0000399> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_2/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5975,11 +5868,7 @@ sn:00812219-v a ontolex:LexicalConcept ;
     frac:attestation :effugere_attestation .
 
 :effugere_attestation a frac:Attestation ;
-    rdf:value "Primum illum animi
-ictum effugere ratione non possumus, sicut ne illa
-quidem quae diximus accidere corporibus, ne nos
-oscitatio aliena sollicitet, ne oculi ad intentationem
-subitam digitorum conprimantur" ;
+    rdf:value "Primum illum animi ictum effugere ratione non possumus, sicut ne illa quidem quae diximus accidere corporibus, ne nos oscitatio aliena sollicitet, ne oculi ad intentationem subitam digitorum conprimantur" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0000728> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_4/Paragraphus_2> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -5988,12 +5877,7 @@ sn:02632685-v a ontolex:LexicalConcept ;
     frac:attestation :transit_attestation .
 
 :transit_attestation a frac:Attestation ;
-    rdf:value "Origo huius mali ab ira est, quae ubi
-
- 
-frequenti exercitatione et satietate in oblivionem
-clementiae venit et omne foedus humanum eiecit
-animo, novissime in crudelitatem transit" ;
+    rdf:value "Origo huius mali ab ira est, quae ubi frequenti exercitatione et satietate in oblivionem clementiae venit et omne foedus humanum eiecit animo, novissime in crudelitatem transit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0000861> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_5/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6002,8 +5886,7 @@ sn:02076777-v a ontolex:LexicalConcept ;
     frac:attestation :transibit_attestation .
 
 :transibit_attestation a frac:Attestation ;
-    rdf:value "omnis illi per iracundiam
- maeroremque vita transibit" ;
+    rdf:value "omnis illi per iracundiam maeroremque vita transibit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0001212> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_7/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6021,8 +5904,7 @@ sn:01908923-v a ontolex:LexicalConcept ;
     frac:attestation :ingressos_attestation .
 
 :ingressos_attestation a frac:Attestation ;
-    rdf:value "Quisquis sequitur priores male iter ingressos, quidni habeat excusationem,
- cum publica via erraverit ?" ;
+    rdf:value "Quisquis sequitur priores male iter ingressos, quidni habeat excusationem, cum publica via erraverit ?" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0001812> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_10/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6031,11 +5913,7 @@ sn:02253273-v a ontolex:LexicalConcept ;
     frac:attestation :occurrebant_attestation .
 
 :occurrebant_attestation a frac:Attestation ;
-    rdf:value "Heraclitus quotiens prodierat et tantum circa se
-male viventium, immo male pereuntium viderat,
-flebat, miserebatur omnium, qui sibi laeti felicesque
-occurrebant, miti animo, sed nimis imbecillo, et ipse
-inter deplorandos erat" ;
+    rdf:value "Heraclitus quotiens prodierat et tantum circa se male viventium, immo male pereuntium viderat, flebat, miserebatur omnium, qui sibi laeti felicesque occurrebant, miti animo, sed nimis imbecillo, et ipse inter deplorandos erat" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0001870> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_10/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6044,10 +5922,7 @@ sn:02065423-v a ontolex:LexicalConcept ;
     frac:attestation :Occurrit_attestation .
 
 :Occurrit_attestation a frac:Attestation ;
-    rdf:value "Occurrit
-potius et aliam excludit undam, aliam egerit, manifesta foramina praecludit, latentibus et ex occulto
-sentinam ducentibus labore continuo resistit, nec ideo
-intermittit, quia quantum exhaustum est subnascitur" ;
+    rdf:value "Occurrit potius et aliam excludit undam, aliam egerit, manifesta foramina praecludit, latentibus et ex occulto sentinam ducentibus labore continuo resistit, nec ideo intermittit, quia quantum exhaustum est subnascitur" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0002021> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_10/Paragraphus_8> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6056,8 +5931,7 @@ sn:00812219-v a ontolex:LexicalConcept ;
     frac:attestation :effugit_attestation .
 
 :effugit_attestation a frac:Attestation ;
-    rdf:value "\" Utilis est,\" inquit, \" ira, quia contemptum
-effugit, quia malos terret.\"" ;
+    rdf:value "\" Utilis est,\" inquit, \" ira, quia contemptum effugit, quia malos terret.\"" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0002070> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_11/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6075,10 +5949,7 @@ sn:00725311-v a ontolex:LexicalConcept ;
     frac:attestation :Occurrat_attestation .
 
 :Occurrat_attestation a frac:Attestation ;
-    rdf:value "Occurrat
-hoc loco tibi Laberianus ille versus, qui medio civili
-bello in theatro dictus totum in se populum non aliter
-convertit, quam si missa esset vox publici adfectus" ;
+    rdf:value "Occurrat hoc loco tibi Laberianus ille versus, qui medio civili bello in theatro dictus totum in se populum non aliter convertit, quam si missa esset vox publici adfectus" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0002193> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_11/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6087,10 +5958,7 @@ sn:02705946-v a ontolex:LexicalConcept ;
     frac:attestation :coeunt_attestation .
 
 :coeunt_attestation a frac:Attestation ;
-    rdf:value "necesse est prius virtutem ex animo tollas quam
-iracundiam recipias, quoniam cum virtutibus vitia
-non coeunt, nec magis quisquam eodem tempore et
-iratus potest esse et vir bonus quam aeger et sanus" ;
+    rdf:value "necesse est prius virtutem ex animo tollas quam iracundiam recipias, quoniam cum virtutibus vitia non coeunt, nec magis quisquam eodem tempore et iratus potest esse et vir bonus quam aeger et sanus" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0002417> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_12/Paragraphus_2> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6099,8 +5967,7 @@ sn:02010848-v a ontolex:LexicalConcept ;
     frac:attestation :peruenit_attestation .
 
 :peruenit_attestation a frac:Attestation ;
-    rdf:value "et tamen ad finem operis non magno
- auctoramento labor pervenit" ;
+    rdf:value "et tamen ad finem operis non magno auctoramento labor pervenit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0002603> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_12/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6109,9 +5976,7 @@ sn:00812219-v a ontolex:LexicalConcept ;
     frac:attestation :effugere_attestation .
 
 :effugere_attestation a frac:Attestation ;
-    rdf:value "Quantum est effugere
-maximum malum, iram, et cum illa rabiem, saevitiam,
-crudelitatem, furorem, alios comites eius adfectus!" ;
+    rdf:value "Quantum est effugere maximum malum, iram, et cum illa rabiem, saevitiam, crudelitatem, furorem, alios comites eius adfectus!" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0002618> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_12/Paragraphus_6> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6120,9 +5985,7 @@ sn:00340744-v a ontolex:LexicalConcept ;
     frac:attestation :euenit_attestation .
 
 :euenit_attestation a frac:Attestation ;
-    rdf:value "Quod evenit, quia
-fortia solidaque natura ingenia, antequam disciplina
-molliantur, prona in iram sunt" ;
+    rdf:value "Quod evenit, quia fortia solidaque natura ingenia, antequam disciplina molliantur, prona in iram sunt" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0002974> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_15/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6131,10 +5994,7 @@ sn:00348264-v a ontolex:LexicalConcept ;
     frac:attestation :occurremus_attestation .
 
 :occurremus_attestation a frac:Attestation ;
-    rdf:value "Et quia aliis
-contra iram, aliis contra tristitiam remediis utendum
-est nec dissimillimis tantum ista sed contrariis
-curanda sunt, semper ei occurremus quod increverit" ;
+    rdf:value "Et quia aliis contra iram, aliis contra tristitiam remediis utendum est nec dissimillimis tantum ista sed contrariis curanda sunt, semper ei occurremus quod increverit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0003919> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_20/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6143,11 +6003,7 @@ sn:02024442-v a ontolex:LexicalConcept ;
     frac:attestation :incurret_attestation .
 
 :incurret_attestation a frac:Attestation ;
-    rdf:value "Nihil nisi quod in oculos incurret manifestumque
-erit credamus, et quotiens suspicio nostra vana
-
- 
-apparuerit, obiurgemus credulitatem" ;
+    rdf:value "Nihil nisi quod in oculos incurret manifestumque erit credamus, et quotiens suspicio nostra vana apparuerit, obiurgemus credulitatem" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0004670> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_24/Paragraphus_2> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6156,8 +6012,7 @@ sn:00725311-v a ontolex:LexicalConcept ;
     frac:attestation :succurrat_attestation .
 
 :succurrat_attestation a frac:Attestation ;
-    rdf:value "succurrat non tantum quid patiamur, sed
-quid fecerimus, in consilium de vita nostra mittamur" ;
+    rdf:value "succurrat non tantum quid patiamur, sed quid fecerimus, in consilium de vita nostra mittamur" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0005221> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_27/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6166,8 +6021,7 @@ sn:00340744-v a ontolex:LexicalConcept ;
     frac:attestation :incurrunt_attestation .
 
 :incurrunt_attestation a frac:Attestation ;
-    rdf:value "At
-morbi doloresque incurrunt" ;
+    rdf:value "At morbi doloresque incurrunt" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0005395> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_28/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6185,9 +6039,7 @@ sn:00340744-v a ontolex:LexicalConcept ;
     frac:attestation :euenerunt_attestation .
 
 :euenerunt_attestation a frac:Attestation ;
-    rdf:value "itaque maxime commovent, quae contra spem expectationemque evenerunt, nec aliud est quare in
-domesticis minima offendant, in amicis iniuriam
- vocemus neglegentiam" ;
+    rdf:value "itaque maxime commovent, quae contra spem expectationemque evenerunt, nec aliud est quare in domesticis minima offendant, in amicis iniuriam vocemus neglegentiam" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0006029> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_31/Paragraphus_2> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6196,8 +6048,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :Perierat_attestation .
 
 :Perierat_attestation a frac:Attestation ;
-    rdf:value "Perierat alter filius, si carnifici conviva
-non placuisset" ;
+    rdf:value "Perierat alter filius, si carnifici conviva non placuisset" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0006824> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_33/Paragraphus_6> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6206,10 +6057,7 @@ sn:00725311-v a ontolex:LexicalConcept ;
     frac:attestation :occurrat_attestation .
 
 :occurrat_attestation a frac:Attestation ;
-    rdf:value "Illud
-quoque occurrat, quantum nobis commendationis
-allatura sit clementiae fama, quam multos venia
- amicos utiles fecerit" ;
+    rdf:value "Illud quoque occurrat, quantum nobis commendationis allatura sit clementiae fama, quam multos venia amicos utiles fecerit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0006896> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_34/Paragraphus_2> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6218,8 +6066,7 @@ sn:01094777-v a ontolex:LexicalConcept ;
     frac:attestation :concurritur_attestation .
 
 :concurritur_attestation a frac:Attestation ;
-    rdf:value "Sed utrimque certabit ira,
-concurritur, ille est melior qui prior pedem rettulit" ;
+    rdf:value "Sed utrimque certabit ira, concurritur, ille est melior qui prior pedem rettulit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0007014> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_34/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6228,8 +6075,7 @@ sn:00027698-v a ontolex:LexicalConcept ;
     frac:attestation :procurrit_attestation .
 
 :procurrit_attestation a frac:Attestation ;
-    rdf:value "Ea demum velocitas placet, quae ubi
-iussa est vestigium sistit nec ultra destinata procurrit flectique et a cursu ad gradum reduci potest" ;
+    rdf:value "Ea demum velocitas placet, quae ubi iussa est vestigium sistit nec ultra destinata procurrit flectique et a cursu ad gradum reduci potest" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0007100> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_35/Paragraphus_2> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6238,12 +6084,7 @@ sn:02019450-v a ontolex:LexicalConcept ;
     frac:attestation :exeunt_attestation .
 
 :exeunt_attestation a frac:Attestation ;
-    rdf:value "Quales sunt hostium vel ferarum
-caede madentium aut ad caedem euntium aspectus,
-qualia poetae inferna monstra finxerunt succincta
-serpentibus et igneo flatu, quales ad bella excitanda
-discordiamque in populos dividendam pacemque
-lacerandam teterrimae inferum exeunt" ;
+    rdf:value "Quales sunt hostium vel ferarum caede madentium aut ad caedem euntium aspectus, qualia poetae inferna monstra finxerunt succincta serpentibus et igneo flatu, quales ad bella excitanda discordiamque in populos dividendam pacemque lacerandam teterrimae inferum exeunt" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra2.BPN_t_0007279> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_2/Capitulum_35/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6252,11 +6093,7 @@ sn:02253273-v a ontolex:LexicalConcept ;
     frac:attestation :occurrentia_attestation .
 
 :occurrentia_attestation a frac:Attestation ;
-    rdf:value "nec aliorum more vitiorum sollicitat animos, sed
-abducit et impotentes sui cupidosque vel communis
-mali exagitat, nec in ea tantum in quae destinavit,
-sed in occurrentia obiter obiter A1: ob iter C. F. W. Mulier.
- furit" ;
+    rdf:value "nec aliorum more vitiorum sollicitat animos, sed abducit et impotentes sui cupidosque vel communis mali exagitat, nec in ea tantum in quae destinavit, sed in occurrentia obiter obiter A1: ob iter C. F. W. Mulier. furit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0000156> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_1/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6265,8 +6102,7 @@ sn:02055618-v a ontolex:LexicalConcept ;
     frac:attestation :transit_attestation .
 
 :transit_attestation a frac:Attestation ;
-    rdf:value "Nullam transit aetatem, nullum hominum genus
-excipit" ;
+    rdf:value "Nullam transit aetatem, nullum hominum genus excipit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0000272> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_2/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6275,8 +6111,7 @@ sn:00812219-v a ontolex:LexicalConcept ;
     frac:attestation :effugere_attestation .
 
 :effugere_attestation a frac:Attestation ;
-    rdf:value "quaedam, quia exercitae et vagae
-sunt, effugere pigritiam" ;
+    rdf:value "quaedam, quia exercitae et vagae sunt, effugere pigritiam" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0000291> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_2/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6285,11 +6120,7 @@ sn:02013448-v a ontolex:LexicalConcept ;
     frac:attestation :egressus_attestation .
 
 :egressus_attestation a frac:Attestation ;
-    rdf:value "sine more, sine auspiciis populus ductu
-irae suae egressus fortuita raptaque pro armis gessit,
-
- 
-deinde magna clade temeritatem audacis irae luit" ;
+    rdf:value "sine more, sine auspiciis populus ductu irae suae egressus fortuita raptaque pro armis gessit, deinde magna clade temeritatem audacis irae luit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0000498> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_2/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6298,8 +6129,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :exire_attestation .
 
 :exire_attestation a frac:Attestation ;
-    rdf:value "gaudent feriri et instare ferro et tela
-corpore urgere et per suum vulnus exire" ;
+    rdf:value "gaudent feriri et instare ferro et tela corpore urgere et per suum vulnus exire" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0000555> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_2/Paragraphus_6> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6308,8 +6138,7 @@ sn:02290474-v a ontolex:LexicalConcept ;
     frac:attestation :inuenies_attestation .
 
 :inuenies_attestation a frac:Attestation ;
-    rdf:value "quorum
- nihil invenies in irato" ;
+    rdf:value "quorum nihil invenies in irato" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0001507> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_6/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6318,9 +6147,7 @@ sn:02076777-v a ontolex:LexicalConcept ;
     frac:attestation :transit_attestation .
 
 :transit_attestation a frac:Attestation ;
-    rdf:value "Numquam tam feliciter in multa discurrenti negotia dies
-transit, ut non aut ex homine aut ex re offensa
- nascatur, quae animum in iras paret" ;
+    rdf:value "Numquam tam feliciter in multa discurrenti negotia dies transit, ut non aut ex homine aut ex re offensa nascatur, quae animum in iras paret" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0001582> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_6/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6329,9 +6156,7 @@ sn:01654835-v a ontolex:LexicalConcept ;
     frac:attestation :adgreditur_attestation .
 
 :adgreditur_attestation a frac:Attestation ;
-    rdf:value "Ita fit, ut frequenter irrita sit eius
-voluntas, qui non quae facilia sunt adgreditur, sed
- vult facilia esse quae adgressus est" ;
+    rdf:value "Ita fit, ut frequenter irrita sit eius voluntas, qui non quae facilia sunt adgreditur, sed vult facilia esse quae adgressus est" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0001790> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_7/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6340,9 +6165,7 @@ sn:01654835-v a ontolex:LexicalConcept ;
     frac:attestation :adgressus_attestation .
 
 :adgressus_attestation a frac:Attestation ;
-    rdf:value "Ita fit, ut frequenter irrita sit eius
-voluntas, qui non quae facilia sunt adgreditur, sed
- vult facilia esse quae adgressus est" ;
+    rdf:value "Ita fit, ut frequenter irrita sit eius voluntas, qui non quae facilia sunt adgreditur, sed vult facilia esse quae adgressus est" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0001796> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_7/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6351,11 +6174,7 @@ sn:02024442-v a ontolex:LexicalConcept ;
     frac:attestation :exeat_attestation .
 
 :exeat_attestation a frac:Attestation ;
-    rdf:value "Ergo actiones nostrae nec parvae sint nec audaces et
-improbae, in vicinum spes exeat, nihil conemur,
-quod mox adepti quoque successisse miremur,
- Demus operam, ne accipiamus iniuriam, quia
-ferre nescimus" ;
+    rdf:value "Ergo actiones nostrae nec parvae sint nec audaces et improbae, in vicinum spes exeat, nihil conemur, quod mox adepti quoque successisse miremur, Demus operam, ne accipiamus iniuriam, quia ferre nescimus" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0001851> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_7/Paragraphus_2> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6364,10 +6183,7 @@ sn:02217057-v a ontolex:LexicalConcept ;
     frac:attestation :inuenit_attestation .
 
 :inuenit_attestation a frac:Attestation ;
-    rdf:value "Accedit huc, quod
-non tantum exemplo melior fit qui cum quietis
-hominibus vivit, sed quod causas irascendi non
-invenit nec vitium suum exercet" ;
+    rdf:value "Accedit huc, quod non tantum exemplo melior fit qui cum quietis hominibus vivit, sed quod causas irascendi non invenit nec vitium suum exercet" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0002000> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_8/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6376,9 +6192,7 @@ sn:00812219-v a ontolex:LexicalConcept ;
     frac:attestation :effugere_attestation .
 
 :effugere_attestation a frac:Attestation ;
-    rdf:value "Cum quo, ut aiunt, cenabat in cubiculo lectae
-patientiae cliens, sed difficile erat illi in copulam
-coniecto rixam eius cum quo cohaerebat effugere" ;
+    rdf:value "Cum quo, ut aiunt, cenabat in cubiculo lectae patientiae cliens, sed difficile erat illi in copulam coniecto rixam eius cum quo cohaerebat effugere" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0002124> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_8/Paragraphus_6> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6396,8 +6210,7 @@ sn:02055618-v a ontolex:LexicalConcept ;
     frac:attestation :transeant_attestation .
 
 :transeant_attestation a frac:Attestation ;
-    rdf:value "Multae nos iniuriae transeant, ex quibus plerasque
-non accipit qui nescit" ;
+    rdf:value "Multae nos iniuriae transeant, ex quibus plerasque non accipit qui nescit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0002655> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_11/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6406,13 +6219,7 @@ sn:01124145-v a ontolex:LexicalConcept ;
     frac:attestation :incurrisset_attestation .
 
 :incurrisset_attestation a frac:Attestation ;
-    rdf:value "Atheniensium tyrannum, memoriae
-proditur, cum multa in crudelitatem eius ebrius
-conviva dixisset nec deessent qui vellent manus ei
-commodare, et alius hinc alius illinc faces subderent,
-placido animo tulisse et hoc irritantibus respondisse,
-non magis illi se suscensere quam si quis obligatis
-oculis in se incurrisset" ;
+    rdf:value "Atheniensium tyrannum, memoriae proditur, cum multa in crudelitatem eius ebrius conviva dixisset nec deessent qui vellent manus ei commodare, et alius hinc alius illinc faces subderent, placido animo tulisse et hoc irritantibus respondisse, non magis illi se suscensere quam si quis obligatis oculis in se incurrisset" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0002809> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_11/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6421,9 +6228,7 @@ sn:02009962-v a ontolex:LexicalConcept ;
     frac:attestation :interuenerat_attestation .
 
 :interuenerat_attestation a frac:Attestation ;
-    rdf:value "interrogatus deinde
-ab amico, qui forte intervenerat, quid ageret:
-\" Exigo,\" inquit, \" poenas ab homine iracundo.\"" ;
+    rdf:value "interrogatus deinde ab amico, qui forte intervenerat, quid ageret: \" Exigo,\" inquit, \" poenas ab homine iracundo.\"" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0003026> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_12/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6432,9 +6237,7 @@ sn:02218118-v a ontolex:LexicalConcept ;
     frac:attestation :inuenerat_attestation .
 
 :inuenerat_attestation a frac:Attestation ;
-    rdf:value "Velut stupens gestum illum saevituri deformem
-sapienti viro servabat, oblitus iam servi, quia alium
-quem potius castigaret invenerat" ;
+    rdf:value "Velut stupens gestum illum saevituri deformem sapienti viro servabat, oblitus iam servi, quia alium quem potius castigaret invenerat" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0003052> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_12/Paragraphus_6> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6443,8 +6246,7 @@ sn:01349660-v a ontolex:LexicalConcept ;
     frac:attestation :concurrit_attestation .
 
 :concurrit_attestation a frac:Attestation ;
-    rdf:value "Non defuerunt
-misero verba, non os concurrit" ;
+    rdf:value "Non defuerunt misero verba, non os concurrit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0003737> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_15/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6453,9 +6255,7 @@ sn:01846010-v a ontolex:LexicalConcept ;
     frac:attestation :aduolet_attestation .
 
 :aduolet_attestation a frac:Attestation ;
-    rdf:value "Quid
-expectas, ut te aut hostis aliquis per exitium gentis
-tuae vindicet aut rex a longinquo potens advolet ?" ;
+    rdf:value "Quid expectas, ut te aut hostis aliquis per exitium gentis tuae vindicet aut rex a longinquo potens advolet ?" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0003892> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_15/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6464,9 +6264,7 @@ sn:01372423-v a ontolex:LexicalConcept ;
     frac:attestation :Perierunt_attestation .
 
 :Perierunt_attestation a frac:Attestation ;
-    rdf:value "Perierunt omnia, ubi quantum
-ira suadet fortuna permittit, nec diu potest quae
-multorum malo exercetur potentia stare" ;
+    rdf:value "Perierunt omnia, ubi quantum ira suadet fortuna permittit, nec diu potest quae multorum malo exercetur potentia stare" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0004050> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_16/Paragraphus_2> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6475,11 +6273,7 @@ sn:00383306-v a ontolex:LexicalConcept ;
     frac:attestation :transeuntem_attestation .
 
 :transeuntem_attestation a frac:Attestation ;
-    rdf:value "Dabo tibi ex Aristotelis sinu regem Alexandrum, qui
-Clitum carissimum sibi et una educatum inter epulas
-transfodit manu quidem sua, parum adulantem et
-pigre ex Macedone ac libero in Persicam servitutem
- transeuntem" ;
+    rdf:value "Dabo tibi ex Aristotelis sinu regem Alexandrum, qui Clitum carissimum sibi et una educatum inter epulas transfodit manu quidem sua, parum adulantem et pigre ex Macedone ac libero in Persicam servitutem transeuntem" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0004259> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_17/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6488,9 +6282,7 @@ sn:00124250-v a ontolex:LexicalConcept ;
     frac:attestation :transisset_attestation .
 
 :transisset_attestation a frac:Attestation ;
-    rdf:value "Utinam ista saevitia intra peregrina exempla
-mansisset nec in Romanos mores cum aliis adventiciis vitiis etiam suppliciorum irarumque barbaria
-transisset !" ;
+    rdf:value "Utinam ista saevitia intra peregrina exempla mansisset nec in Romanos mores cum aliis adventiciis vitiis etiam suppliciorum irarumque barbaria transisset !" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0004392> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_18/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6499,9 +6291,7 @@ sn:00782620-v a ontolex:LexicalConcept ;
     frac:attestation :exire_attestation .
 
 :exire_attestation a frac:Attestation ;
-    rdf:value "Quam superba fuerit crudelitas eius ad rem
-pertinet scire, quamquam aberrare alicui possimus
-videri et in devium exire" ;
+    rdf:value "Quam superba fuerit crudelitas eius ad rem pertinet scire, quamquam aberrare alicui possimus videri et in devium exire" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0004607> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_19/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6510,8 +6300,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :periturus_attestation .
 
 :periturus_attestation a frac:Attestation ;
-    rdf:value "sciebat autem innumerabilia esse, quae obicere illi nemo nisi periturus
- auderet" ;
+    rdf:value "sciebat autem innumerabilia esse, quae obicere illi nemo nisi periturus auderet" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0004783> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_19/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6520,9 +6309,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :exiturae_attestation .
 
 :exiturae_attestation a frac:Attestation ;
-    rdf:value "Liceat ultimum
-spiritum trahere, da exiturae animae locum, liceat
- illam non per vulnus emittere !" ;
+    rdf:value "Liceat ultimum spiritum trahere, da exiturae animae locum, liceat illam non per vulnus emittere !" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0004807> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_19/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6531,9 +6318,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :periret_attestation .
 
 :periret_attestation a frac:Attestation ;
-    rdf:value "Servabantur interim generosae illi aves et instrumenta
-epularum camelis vehebantur, cum sortirentur
-milites eius, quis male periret, quis peius viveret" ;
+    rdf:value "Servabantur interim generosae illi aves et instrumenta epularum camelis vehebantur, cum sortirentur milites eius, quis male periret, quis peius viveret" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0005038> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_20/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6542,11 +6327,7 @@ sn:02054081-v a ontolex:LexicalConcept ;
     frac:attestation :transire_attestation .
 
 :transire_attestation a frac:Attestation ;
-    rdf:value "Nam cum Babylona oppugnaturus festinaret ad bellum, cuius
-maxima momenta in occasionibus sunt, Gynden late
-fusum amnem vado transire temptavit, quod vix
-tutum est, etiam cum sensit aestatem et ad minimum
- deductus est" ;
+    rdf:value "Nam cum Babylona oppugnaturus festinaret ad bellum, cuius maxima momenta in occasionibus sunt, Gynden late fusum amnem vado transire temptavit, quod vix tutum est, etiam cum sensit aestatem et ad minimum deductus est" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0005072> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_21/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6555,10 +6336,7 @@ sn:02076993-v a ontolex:LexicalConcept ;
     frac:attestation :Periit_attestation .
 
 :Periit_attestation a frac:Attestation ;
-    rdf:value "Periit itaque et tempus, magna in magnis
-rebus iactura, et militum ardor, quem inutilis labor
-fregit, et occasio adgrediendi imparatos, dum ille
- bellum indictum hosti cum flumine gerit" ;
+    rdf:value "Periit itaque et tempus, magna in magnis rebus iactura, et militum ardor, quem inutilis labor fregit, et occasio adgrediendi imparatos, dum ille bellum indictum hosti cum flumine gerit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0005150> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_21/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6567,10 +6345,7 @@ sn:01122487-v a ontolex:LexicalConcept ;
     frac:attestation :adgrediendi_attestation .
 
 :adgrediendi_attestation a frac:Attestation ;
-    rdf:value "Periit itaque et tempus, magna in magnis
-rebus iactura, et militum ardor, quem inutilis labor
-fregit, et occasio adgrediendi imparatos, dum ille
- bellum indictum hosti cum flumine gerit" ;
+    rdf:value "Periit itaque et tempus, magna in magnis rebus iactura, et militum ardor, quem inutilis labor fregit, et occasio adgrediendi imparatos, dum ille bellum indictum hosti cum flumine gerit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0005168> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_21/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6579,12 +6354,7 @@ sn:02024442-v a ontolex:LexicalConcept ;
     frac:attestation :peruenientem_attestation .
 
 :peruenientem_attestation a frac:Attestation ;
-    rdf:value "Quid est quare ego servi mei clarius
- responsum et contumaciorem voltum et non pervenientem
-
- 
- usque ad me murmurationem flagellis
-et compedibus expiem ?" ;
+    rdf:value "Quid est quare ego servi mei clarius responsum et contumaciorem voltum et non pervenientem usque ad me murmurationem flagellis et compedibus expiem ?" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0005802> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_24/Paragraphus_2> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6593,13 +6363,7 @@ sn:02674587-v a ontolex:LexicalConcept ;
     frac:attestation :occurrat_attestation .
 
 :occurrat_attestation a frac:Attestation ;
-    rdf:value "Quomodo homini pusillo solacium in malis
-fuit etiam magnorum virorum titubare fortunam,
-et aequiore animo filium in angulo flevit, qui vidit
-acerba funera etiam ex regia duci, sic animo aequiore
-fert ab aliquo laedi, ab aliquo contemni, cuicumque
-venit in mentem nullam esse tantam potentiam,
- in quam non occurrat iniuria" ;
+    rdf:value "Quomodo homini pusillo solacium in malis fuit etiam magnorum virorum titubare fortunam, et aequiore animo filium in angulo flevit, qui vidit acerba funera etiam ex regia duci, sic animo aequiore fert ab aliquo laedi, ab aliquo contemni, cuicumque venit in mentem nullam esse tantam potentiam, in quam non occurrat iniuria" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0005956> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_25/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6608,8 +6372,7 @@ sn:02202295-v a ontolex:LexicalConcept ;
     frac:attestation :inueniet_attestation .
 
 :inueniet_attestation a frac:Attestation ;
-    rdf:value "Quidquid itaque in alio reprenditur, id
-unusquisque in sinu suo inveniet" ;
+    rdf:value "Quidquid itaque in alio reprenditur, id unusquisque in sinu suo inveniet" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0006305> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_26/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6618,8 +6381,7 @@ sn:02377696-v a ontolex:LexicalConcept ;
     frac:attestation :abire_attestation .
 
 :abire_attestation a frac:Attestation ;
-    rdf:value "Quanto melius est abire
-in diversum nec vitia vitiis opponere !" ;
+    rdf:value "Quanto melius est abire in diversum nec vitia vitiis opponere !" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0006390> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_27/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6628,8 +6390,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :pereat_attestation .
 
 :pereat_attestation a frac:Attestation ;
-    rdf:value "Adice nunc quod nihil tam imbecille natum est, ut
-sine elidentis periculo pereat" ;
+    rdf:value "Adice nunc quod nihil tam imbecille natum est, ut sine elidentis periculo pereat" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0006719> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_28/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6638,14 +6399,7 @@ sn:01654835-v a ontolex:LexicalConcept ;
     frac:attestation :occurrit_attestation .
 
 :occurrit_attestation a frac:Attestation ;
-    rdf:value "Si captivus in servitutem subito
-depressus reliquias libertatis tenet nec ad sordida
-ac laboriosa ministeria agilis occurrit, si ex otio piger
-equum vehiculumque domini cursu non exaequat,
-si inter cottidiana pervigilia fessum somnus oppressit, si rusticum laborem recusat aut non fortiter
-obiit a servitute urbana et feriata translatus ad
- 2 durum opus, distinguamus, utrum aliquis non possit
-an nolit" ;
+    rdf:value "Si captivus in servitutem subito depressus reliquias libertatis tenet nec ad sordida ac laboriosa ministeria agilis occurrit, si ex otio piger equum vehiculumque domini cursu non exaequat, si inter cottidiana pervigilia fessum somnus oppressit, si rusticum laborem recusat aut non fortiter obiit a servitute urbana et feriata translatus ad 2 durum opus, distinguamus, utrum aliquis non possit an nolit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0006885> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_29/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6654,14 +6408,7 @@ sn:01084999-v a ontolex:LexicalConcept ;
     frac:attestation :obiit_attestation .
 
 :obiit_attestation a frac:Attestation ;
-    rdf:value "Si captivus in servitutem subito
-depressus reliquias libertatis tenet nec ad sordida
-ac laboriosa ministeria agilis occurrit, si ex otio piger
-equum vehiculumque domini cursu non exaequat,
-si inter cottidiana pervigilia fessum somnus oppressit, si rusticum laborem recusat aut non fortiter
-obiit a servitute urbana et feriata translatus ad
- 2 durum opus, distinguamus, utrum aliquis non possit
-an nolit" ;
+    rdf:value "Si captivus in servitutem subito depressus reliquias libertatis tenet nec ad sordida ac laboriosa ministeria agilis occurrit, si ex otio piger equum vehiculumque domini cursu non exaequat, si inter cottidiana pervigilia fessum somnus oppressit, si rusticum laborem recusat aut non fortiter obiit a servitute urbana et feriata translatus ad 2 durum opus, distinguamus, utrum aliquis non possit an nolit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0006911> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_29/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6697,9 +6444,7 @@ sn:02055618-v a ontolex:LexicalConcept ;
     frac:attestation :transeuntium_attestation .
 
 :transeuntium_attestation a frac:Attestation ;
-    rdf:value "Iter angustum rixas
-transeuntium concitat, diffusa et late patens via ne
-populos quidem collidit" ;
+    rdf:value "Iter angustum rixas transeuntium concitat, diffusa et late patens via ne populos quidem collidit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0007754> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_34/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6708,11 +6453,7 @@ sn:00423043-v a ontolex:LexicalConcept ;
     frac:attestation :occurrentium_attestation .
 
 :occurrentium_attestation a frac:Attestation ;
-    rdf:value "Hi nempe oculi,
-qui non ferunt nisi varium ac recenti cura nitens
-marmor, qui mensam nisi crebris distinctam venis,
-qui nolunt domi nisi auro pretiosiora calcari, aequissimo animo foris et scabras lutosasque semitas
-spectant et maiorem partem occurrentium squalidam, parietes insularum exesos, rimosos, inaequales" ;
+    rdf:value "Hi nempe oculi, qui non ferunt nisi varium ac recenti cura nitens marmor, qui mensam nisi crebris distinctam venis, qui nolunt domi nisi auro pretiosiora calcari, aequissimo animo foris et scabras lutosasque semitas spectant et maiorem partem occurrentium squalidam, parietes insularum exesos, rimosos, inaequales" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0007974> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_35/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6730,8 +6471,7 @@ sn:00775477-v a ontolex:LexicalConcept ;
     frac:attestation :congredi_attestation .
 
 :congredi_attestation a frac:Attestation ;
-    rdf:value "noli
-postea congredi cum imperitis" ;
+    rdf:value "noli postea congredi cum imperitis" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0008166> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_36/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6740,8 +6480,7 @@ sn:02217057-v a ontolex:LexicalConcept ;
     frac:attestation :inuenio_attestation .
 
 :inuenio_attestation a frac:Attestation ;
-    rdf:value "Indignor me hercules et non invenio dolendi modum,
-sed tempus expectandum est" ;
+    rdf:value "Indignor me hercules et non invenio dolendi modum, sed tempus expectandum est" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0008684> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_40/Paragraphus_1> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6750,12 +6489,7 @@ sn:00899077-v a ontolex:LexicalConcept ;
     frac:attestation :adgredieris_attestation .
 
 :adgredieris_attestation a frac:Attestation ;
-    rdf:value "varie adgredieris blandeque, nisi forte
-tanta persona eris, ut possis iram comminuere,
-
- 
-quemadmodum fecit divus Augustus, cum cenaret
-apud Vedium Pollionem" ;
+    rdf:value "varie adgredieris blandeque, nisi forte tanta persona eris, ut possis iram comminuere, quemadmodum fecit divus Augustus, cum cenaret apud Vedium Pollionem" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0008713> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_40/Paragraphus_2> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6764,8 +6498,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :periturum_attestation .
 
 :periturum_attestation a frac:Attestation ;
-    rdf:value "rapi eum Vedius iussit ne vulgari
-quidem more periturum" ;
+    rdf:value "rapi eum Vedius iussit ne vulgari quidem more periturum" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0008748> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_40/Paragraphus_2> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6774,9 +6507,7 @@ sn:02079709-v a ontolex:LexicalConcept ;
     frac:attestation :confugit_attestation .
 
 :confugit_attestation a frac:Attestation ;
-    rdf:value "Evasit e manibus puer et confugit ad Caesaris pedes
-nihil aliud petiturus, quam ut aliter periret, ne esca
-fieret" ;
+    rdf:value "Evasit e manibus puer et confugit ad Caesaris pedes nihil aliud petiturus, quam ut aliter periret, ne esca fieret" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0008772> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_40/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6785,9 +6516,7 @@ sn:00359085-v a ontolex:LexicalConcept ;
     frac:attestation :periret_attestation .
 
 :periret_attestation a frac:Attestation ;
-    rdf:value "Evasit e manibus puer et confugit ad Caesaris pedes
-nihil aliud petiturus, quam ut aliter periret, ne esca
-fieret" ;
+    rdf:value "Evasit e manibus puer et confugit ad Caesaris pedes nihil aliud petiturus, quam ut aliter periret, ne esca fieret" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0008782> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_40/Paragraphus_3> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6796,11 +6525,7 @@ sn:01122487-v a ontolex:LexicalConcept ;
     frac:attestation :adgredi_attestation .
 
 :adgredi_attestation a frac:Attestation ;
-    rdf:value "Sic cui
-tantum potentiae est, ut iram ex superiore loco
-adgredi possit, male tractet, at talem dumtaxat,
-qualem modo rettuli, feram, immanem, sanguinariam,
-quae iam insanabilis est, nisi maius aliquid extimuit" ;
+    rdf:value "Sic cui tantum potentiae est, ut iram ex superiore loco adgredi possit, male tractet, at talem dumtaxat, qualem modo rettuli, feram, immanem, sanguinariam, quae iam insanabilis est, nisi maius aliquid extimuit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0008854> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_40/Paragraphus_5> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
@@ -6809,8 +6534,7 @@ sn:02076777-v a ontolex:LexicalConcept ;
     frac:attestation :pereuntis_attestation .
 
 :pereuntis_attestation a frac:Attestation ;
-    rdf:value "Stat supra caput fatum et pereuntis dies imputat
-propiusque ac propius accedit" ;
+    rdf:value "Stat supra caput fatum et pereuntis dies imputat propiusque ac propius accedit" ;
     frac:locus <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/Seneca_DeIra_SenIra3.BPN_t_0009121> ;
     frac:observedIn <http://lila-erc.eu/data/corpora/Lasla/id/corpus/SenecaDe%20Ira/CiteStructure/Liber_3/Capitulum_42/Paragraphus_4> ;
     dcterms:isPartOf <http://lila-erc.eu/data/dataset/PREMOVE/dataset> .
