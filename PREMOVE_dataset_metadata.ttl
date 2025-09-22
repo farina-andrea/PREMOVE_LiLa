@@ -1,0 +1,13 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://lila-erc.eu/data/dataset/PREMOVE/dataset> a dcterms:Dataset ;
+    rdfs:label "PREMOVE – A diachronic dataset of Ancient Greek and Latin annotated PREverbed MOtion VErbs" ;
+    dcterms:title "PREMOVE – A diachronic dataset of Ancient Greek and Latin annotated PREverbed MOtion VErbs" ;
+    dcterms:description "PREMOVE is a diachronic dataset of annotated preverbed motion verbs in Ancient Greek and Latin. It combines eight motion verbs with sixteen preverbs per language and includes morphological, syntactic, semantic, geographical, and textual metadata for each occurrence. Annotations are manually curated and linked to external resources such as Perseus, PHI, and WHG." ;
+    dcterms:creator "Andrea Farina" ;
+    dcterms:contributor "Andrea Farina, Marco Passarotti, Francesco Mambrini, Giovanni Moretti, Matteo Pellegrini" ;
+    dcterms:isPartOf <https://prevnet.sites.er.kcl.ac.uk> .
+    dcterms:publisher <http://www.ota.ox.ac.uk> .
+    dcterms:identifier <http://hdl.handle.net/20.500.14106/2579> .
+    dcterms:bibliographicCitation "Farina, Andrea, 2025, PREMOVE – A diachronic dataset of Ancient Greek and Latin annotated PREverbed MOtion VErbs, Literary and Linguistic Data Service, http://hdl.handle.net/20.500.14106/2579." .
