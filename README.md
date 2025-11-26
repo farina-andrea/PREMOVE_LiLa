@@ -1,4 +1,4 @@
-# PREMOVE – Diachronic Dataset of Annotated Preverbed Motion Verbs in Ancient Greek and Latin
+# PREMOVE TTL Converter: RDF Export of Preverbed Motion Verbs 
 
 **Version:** 1.0  
 **Authors/Contributors:** Andrea Farina, Marco Passarotti, Francesco Mambrini, Giovanni Moretti, Matteo Pellegrini  
